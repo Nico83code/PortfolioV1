@@ -39,7 +39,7 @@ p {
   letter-spacing: 0.05rem;
 }
 
-.cta {
+.btn {
   display: inline-block;
   padding: 10px 30px;
   color: white;
@@ -53,7 +53,7 @@ p {
   transition-property: background-color, color;
 }
 
-.cta:hover {
+.btn:hover {
   color: white;
   background-color: #8789c0;
 }
@@ -401,7 +401,7 @@ p {
   margin-bottom: 20px;
 }
 
-#about .col-right .cta {
+#about .col-right .btn {
   color: black;
   margin-bottom: 50px;
   padding: 10px 20px;
@@ -630,7 +630,7 @@ p {
 
 /* Media Query for Tablet */
 @media only screen and (min-width: 768px) {
-  .cta {
+  .btn {
     font-size: 2.5rem;
     padding: 20px 60px;
   }
