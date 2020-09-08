@@ -456,16 +456,24 @@ p {
   width: 90%;
 }
 
-#about .s2 {
+#about .css {
   width: 90%;
 }
 
-#about .s3 {
+#about .javascript {
   width: 80%;
 }
 
-#about .s4 {
+#about .react {
   width: 80%;
+}
+
+#about .redux {
+  width: 80%;
+}
+
+#about .jest {
+  width: 90%;
 }
 
 #about .load {
