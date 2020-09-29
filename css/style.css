@@ -461,11 +461,11 @@ p {
 
 
 #about .html {
-  width: 90%;
+  width: 80%;
 }
 
 #about .css {
-  width: 90%;
+  width: 80%;
 }
 
 #about .javascript {
@@ -482,6 +482,18 @@ p {
 
 #about .jest {
   width: 90%;
+}
+
+#about .nodejs {
+  width: 70%;
+}
+
+#about .expressjs {
+  width: 80%;
+}
+
+#about .python {
+  width: 10%;
 }
 
 #about .load {
